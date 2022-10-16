@@ -1,32 +1,60 @@
 {
- "message": "success",  
-    "data":[
-        {
-            "id": "1",
-            "title": "Mindful Breathing",
-            "image": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
-        },
-        
-        {
-            "id": "2",
-            "title": "Mindful Breathing",
-            "image": "https://media.istockphoto.com/photos/man-meditating-in-the-living-room-picture-id1264471889?k=20&m=1264471889&s=612x612&w=0&h=tIC42AbTyl4eWwdJFaRsqy56rs4uUYLCGMiidRc9ZbY="
-        }, 
-        {
-            "id": "3",
-            "title": "Mindful Breathing",
-            "image": "https://media.istockphoto.com/photos/meditation-picture-id1220413560?k=20&m=1220413560&s=612x612&w=0&h=u9vOd77Bz-LYUopfzyD1n463GkrRphK8PxwbhPtNkD8="
-        },
-        {
-            "id": "4",
-            "title": "Mindful Breathing",
-            "image": "https://media.istockphoto.com/photos/calm-happy-senior-man-sitting-in-lotus-pose-on-mat-during-morning-in-picture-id1339837272?b=1&k=20&m=1339837272&s=170667a&w=0&h=EeJRTwc_O_g2sqlMusjqYX6IAyvGgt7DIRiXwvf32a8="
-        
-        },
-        {
-            "id": "5",
-            "title": "Mindful Breathing",
-            "image": "https://media.istockphoto.com/photos/woman-doing-yoga-exercise-in-the-night-at-home-with-candles-picture-id1294484082?b=1&k=20&m=1294484082&s=170667a&w=0&h=2RF76CMoCbPc3QvAr1dZzaVj-3Iq45IrHacw-ipY2sE="
-        }
-    ]
+  "message": "success",
+  "data": [
+    {
+      "id": "1",
+      "ringtone_name": "Namo Namo Shankra- Kedarnath",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "2",
+      "ringtone_name": "Mera Bhola He Bhandari- Remix",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "3",
+      "ringtone_name": "Mera Bhola He Bhandari",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "4",
+      "ringtone_name": "Me Bhola Parwat Ka",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "5",
+      "ringtone_name": "Mahadev Tandav Stotram",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "6",
+      "ringtone_name": "Sir Se Tere Baheti Ganga- Remix",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "7",
+      "ringtone_name": "Sir Se Tere Baheti Ganga",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "8",
+      "ringtone_name": "Namah Shivay- Shivaay Movie",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "9",
+      "ringtone_name": "Om Namah Shivay- Stuti",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "10",
+      "ringtone_name": "Om Jay Shiv Omkara",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    },
+    {
+      "id": "11",
+      "ringtone_name": "Nacho bhai Nacho Aaj Bholenath Aayo",
+      "ringtone_url": "https://thumbs.dreamstime.com/z/mindful-young-indian-woman-doing-breathing-yoga-exercises-alone-full-length-mindful-young-indian-woman-making-mudra-gesture-164320630.jpg"
+    }
+  ]
 }
