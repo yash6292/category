@@ -4,10 +4,16 @@
     "category": {
       "Popular": [
         {
-          "id": "0",
-          "game_name": "Supercars Jigsaw",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-g37FdGUtGcpGj0_f5qQpp1UVm9eLonNzPrJwtKIEfb8auck274XDL6Zo-d-4jU4P2Q&usqp=CAU",
-          "game_link": "https://onlinegamesforkids.club/supercars-jigsaw/"
+          "id": "2",
+          "game_name": "Candy Crush saga",
+          "game_image": "https://bk.ibxk.com.br/2015/10/programas/124333611.png",
+          "game_link": "https://onlinegamesforkids.club/skydom/"
+        },
+        {
+          "id": "2",
+          "game_name": "Temple Run 2",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0ibXjHibij9C6k7GnuyXMrYp8FCl1cQtgA&usqp=CAU",
+          "game_link": "https://templerun.ee/"
         },
         {
           "id": "0",
@@ -17,45 +23,9 @@
         },
         {
           "id": "0",
-          "game_name": "Penguins Slide",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSYEYqfWMxMXwcIokjWEwwEyHQUx8BdL16vSNpdd0Tag6ofhtIlOIVnEco-eO8xeJGiw&usqp=CAU",
-          "game_link": "https://onlinegamesforkids.club/penguins-slide//"
-        },
-        {
-          "id": "0",
-          "game_name": "Join Clash 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "0",
-          "game_name": "Speed Car",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/speed_car.jpg",
-          "game_link": "https://gamesworld.atmegame.com/games/speed-racer/"
-        },
-        {
-          "id": "2",
-          "game_name": "Bus Parking 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/bus3dparking.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "4",
-          "game_name": "Traffic Rider",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/rider.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=295&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
-          "game_name": "Traffic Tom",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "2",
-          "game_name": "Moto X3M Pool Party",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mPoolPartyTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+          "game_name": "Bubble Shooter",
+          "game_image": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/30f3d4425fa13a3603cb12686d4f1a0d.png",
+          "game_link": "https://www.agame.com/game/bubble-shooter"
         },
         {
           "id": "5",
@@ -64,163 +34,127 @@
           "game_link": "https://poki.com/en/g/subway-surfers#"
         },
         {
-          "id": "3",
-          "game_name": "Adventure Drivers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/AdventureDriversTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+          "id": "4",
+          "game_name": "Ludo King",
+          "game_image": "https://image.winudf.com/v2/image/Y29tLmdhbWV0aW9uLmx1ZG9raW5nX2ljb25fMF85MjU2ZWI1YQ/icon.png?w=&fakeurl=1",
+          "game_link": "https://poki.com/en/g/ludo-multiplayer"
         },
         {
           "id": "4",
-          "game_name": "Moto X3M",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+          "game_name": "8 Ball Pool",
+          "game_image": "https://games.lol/wp-content/uploads/2020/12/8ballpool-2.jpg",
+          "game_link": "https://www.crazygames.com/game/cue-billiard-club"
         },
         {
-          "id": "5",
-          "game_name": "High Hills",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighHillsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "6",
-          "game_name": "Drag Racing Club",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=316&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "7",
-          "game_name": "Race Right",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RaceRightTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/race-right/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2c1acec8-38bc-4c30-86f2-843c0d1f6dca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
-          "game_name": "Adventure Drivers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/adventuredrivers.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "8",
-          "game_name": "Biker Street",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BikerStreetTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/b/biker-street/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=44eae6d5-c7ec-423f-9992-a29b03b9cb3f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "9",
-          "game_name": "Highway Rider Extreme",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighwayRiderExtremeTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "10",
-          "game_name": "Moto Fury",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoFuryTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-fury/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c0efd17-b355-4e57-935e-7661b109a98c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "11",
-          "game_name": "Drift Cup Racing",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DriftCupRacingTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/drift-cup-racing/v620/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e8ca54ee-cfbe-417c-b69e-e4f4858a9957&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "12",
-          "game_name": "Racing Monster Trucks",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingMonsterTrucksTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
-          "game_name": "Stair Race 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/run3d.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "13",
-          "game_name": "Racing Cars",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingCarsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/racing-cars/v670/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ba418425-068d-4b12-9a35-21d9db2572f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "14",
-          "game_name": "Truck Trials",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TruckTrialsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/truck-trials/v510/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e56b8aaa-86e9-4d9f-9ea1-3822a3021716&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=321&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "15",
-          "game_name": "Thug Racer",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/thug-racer/v330/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c3a9bc6a-f9cf-4bcd-bd12-b1c5fcb4dc5d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "0",
-          "game_name": "Om Nom Run",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "16",
-          "game_name": "Endless Truck",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/EndlessTruckTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a5ff2552-bbd9-4aff-9bcc-ec056478318d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "17",
-          "game_name": "Rival Rush",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RivalRushTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/rival-rush/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eb55364-154f-40b4-b701-f029678d8e81&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=325&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "18",
-          "game_name": "Street Pursuit",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetPursuit_Teaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/street-pursuit/7-8cd52b/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=aad22a94-8032-4cf9-8232-50f8a12d599c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "19",
-          "game_name": "StreetRace Fury",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetRaceFuryTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/streetrace-fury/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c124e0c0-7312-4f81-bdf0-ab1dbcc47ed4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "20",
-          "game_name": "2Cars",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/2CarsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/0/2cars/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=1cef50d7-93e3-4b9b-a974-df5fa99744f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "21",
-          "game_name": "Don't Crash",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DontCrashTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "22",
-          "game_name": "Speed Maniac",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SpeedManiacTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/speed-maniac/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ab87e052-64d3-44b9-b781-6ce8898be5a6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "23",
-          "game_name": "Turbotastic",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TurbotasticTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/turbotastic/v120/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bc6a49d5-5482-4db5-95c7-af6db7e778cf&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "24",
-          "game_name": "Burnin Rubber",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BurninRubber_Teaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/b/burnin-rubber/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d55c9a5f-59ef-44c9-9fd9-b8b60cdb6b92&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "25",
-          "game_name": "Speed Club Nitro",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SprintClubNitroTeaser.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+          "id": "4",
+          "game_name": "Angry Birds 2",
+          "game_image": "https://cdn.now.gg/apps-content/com.rovio.baba/game-tiles/angry-birds-2.jpg",
+          "game_link": "http://www.gamessumo.com/action-games/angry-birds-2-online"
         }
       ],
       "Adventure": [
+        {
+          "id": "1",
+          "game_name": "Slice Rush",
+          "game_image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SliceRushTeaser.jpg",
+          "game_link": "https://gamaverse.com/slice-rush-game/"
+        },
+        {
+          "id": "2",
+          "game_name": "Temple Run 2",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0ibXjHibij9C6k7GnuyXMrYp8FCl1cQtgA&usqp=CAU",
+          "game_link": "https://templerun.ee/"
+        },
+        {
+          "id": "3",
+          "game_name": "Bottle Shooter",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRG_QTHcsatquVPlUXnleWBeFE9Lzd4iplnA&usqp=CAU",
+          "game_link": "https://gameforge.com/en-US/littlegames/real-bottle-shooter-game/#"
+        },
+        {
+          "id": "4",
+          "game_name": "Ludo King",
+          "game_image": "https://image.winudf.com/v2/image/Y29tLmdhbWV0aW9uLmx1ZG9raW5nX2ljb25fMF85MjU2ZWI1YQ/icon.png?w=&fakeurl=1",
+          "game_link": "https://poki.com/en/g/ludo-multiplayer"
+        },
+        {
+          "id": "5",
+          "game_name": "Fruit Ninjas",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnopVMV7A86Rev5U9m7BSpW0YmwLpcYqeVrA&usqp=CAU",
+          "game_link": "https://www.yiv.com/Fruit-Ninja-Online"
+        },
+        {
+          "id": "6",
+          "game_name": "The Sea Lion Act",
+          "game_image": "https://static.gamezop.com/SyQZs6nzueW/cover.jpg",
+          "game_link": "https://www.gamezop.com/g/SyQZs6nzueW/The-Sea-Lion-Act"
+        },
+        {
+          "id": "7",
+          "game_name": "Defend The Tank ",
+          "game_image": "https://g.vseigru.net/6/igra-zashchita-tanka/media/graphics/splash/portrait-start.jpg",
+          "game_link": "https://lagged.com/play/1483/"
+        },
+        {
+          "id": "8",
+          "game_name": "Desert Skeet",
+          "game_image": "https://imgs2.dab3games.com/desert-skeet-game.jpg",
+          "game_link": "https://lagged.com/play/1376/"
+        },
+        {
+          "id": "9",
+          "game_name": "Air Fight",
+          "game_image": "https://gameforge.com/de-DE/littlegames/includes/images/games/10155_5eb3f08ecc34b.jpg",
+          "game_link": "https://lagged.com/play/1685/"
+        },
+        {
+          "id": "10",
+          "game_name": "Killer City",
+          "game_image": "https://imgs2.dab3games.com/killer-city-game.png",
+          "game_link": "https://lagged.com/play/2453/"
+        },
+        {
+          "id": "11",
+          "game_name": "King Soldier 2",
+          "game_image": "https://gameforge.com/de-DE/littlegames/includes/images/games/1651_5ea8571376157.jpg",
+          "game_link": "https://lagged.com/play/1040/"
+        },
+        {
+          "id": "12",
+          "game_name": "Salon Robbery",
+          "game_image": "https://static.gamezop.com/SJ8X6zyPcyX/cover.jpg",
+          "game_link": "https://zv1y2i8p.play.gamezop.com/g/SJ8X6zyPcyX"
+        },
+        {
+          "id": "2",
+          "game_name": "Candy Crush saga",
+          "game_image": "https://bk.ibxk.com.br/2015/10/programas/124333611.png",
+          "game_link": "https://onlinegamesforkids.club/skydom/"
+        },
+        {
+          "id": "0",
+          "game_name": "Bubble Shooter",
+          "game_image": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/30f3d4425fa13a3603cb12686d4f1a0d.png",
+          "game_link": "https://www.agame.com/game/bubble-shooter"
+        },
+        {
+          "id": "1",
+          "game_name": "Dr. Parking 4",
+          "game_image": "https://i.ytimg.com/vi/c9fkSGINHsc/maxresdefault.jpg",
+          "game_link": "https://www.infox.ru/game/en/dr-parking-4/"
+        },
+        {
+          "id": "1",
+          "game_name": "Hill Climb",
+          "game_image": "https://m.media-amazon.com/images/I/71SK1+HcvBL.png",
+          "game_link": "https://www.agame.com/game/hill-racing-challenge"
+        },
+        {
+          "id": "1",
+          "game_name": "Road Racer",
+          "game_image": "https://imgs2.dab3games.com/road-racer-game.jpg",
+          "game_link": "https://lagged.com/play/293/"
+        },
         {
           "id": "0",
           "game_name": "Supercars Jigsaw",
@@ -440,28 +374,28 @@
       ],
       "Racing": [
         {
+          "id": "1",
+          "game_name": "Dr. Parking 4",
+          "game_image": "https://i.ytimg.com/vi/c9fkSGINHsc/maxresdefault.jpg",
+          "game_link": "https://www.infox.ru/game/en/dr-parking-4/"
+        },
+        {
+          "id": "1",
+          "game_name": "Hill Climb",
+          "game_image": "https://m.media-amazon.com/images/I/71SK1+HcvBL.png",
+          "game_link": "https://www.agame.com/game/hill-racing-challenge"
+        },
+        {
+          "id": "1",
+          "game_name": "Road Racer",
+          "game_image": "https://imgs2.dab3games.com/road-racer-game.jpg",
+          "game_link": "https://lagged.com/play/293/"
+        },
+        {
           "id": "0",
           "game_name": "Supercars Jigsaw",
           "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-g37FdGUtGcpGj0_f5qQpp1UVm9eLonNzPrJwtKIEfb8auck274XDL6Zo-d-4jU4P2Q&usqp=CAU",
           "game_link": "https://onlinegamesforkids.club/supercars-jigsaw/"
-        },
-        {
-          "id": "0",
-          "game_name": "Carrom 2 Player",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaHS7bDUYgmfqDQrE_vkkT8euAi7qOIk_jA&usqp=CAU",
-          "game_link": "https://www.infox.ru/game/en/carrom-2-player/"
-        },
-        {
-          "id": "0",
-          "game_name": "Penguins Slide",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSYEYqfWMxMXwcIokjWEwwEyHQUx8BdL16vSNpdd0Tag6ofhtIlOIVnEco-eO8xeJGiw&usqp=CAU",
-          "game_link": "https://onlinegamesforkids.club/penguins-slide//"
-        },
-        {
-          "id": "0",
-          "game_name": "Join Clash 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
           "id": "0",
@@ -530,12 +464,6 @@
           "game_link": "https://games.cdn.famobi.com/html5games/r/race-right/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2c1acec8-38bc-4c30-86f2-843c0d1f6dca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
-          "id": "1",
-          "game_name": "Adventure Drivers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/adventuredrivers.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
           "id": "8",
           "game_name": "Biker Street",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BikerStreetTeaser.jpg",
@@ -566,12 +494,6 @@
           "game_link": "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
-          "id": "1",
-          "game_name": "Stair Race 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/run3d.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
           "id": "13",
           "game_name": "Racing Cars",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingCarsTeaser.jpg",
@@ -588,12 +510,6 @@
           "game_name": "Thug Racer",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
           "game_link": "https://games.cdn.famobi.com/html5games/t/thug-racer/v330/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c3a9bc6a-f9cf-4bcd-bd12-b1c5fcb4dc5d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "0",
-          "game_name": "Om Nom Run",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
           "id": "16",
@@ -656,225 +572,105 @@
           "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         }
       ],
-      "Action":  [
+      "Action": [
         {
-          "id": "0",
-          "game_name": "Supercars Jigsaw",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-g37FdGUtGcpGj0_f5qQpp1UVm9eLonNzPrJwtKIEfb8auck274XDL6Zo-d-4jU4P2Q&usqp=CAU",
-          "game_link": "https://onlinegamesforkids.club/supercars-jigsaw/"
+          "id": "1",
+          "game_name": "Slice Rush",
+          "game_image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SliceRushTeaser.jpg",
+          "game_link": "https://gamaverse.com/slice-rush-game/"
         },
         {
-          "id": "0",
-          "game_name": "Carrom 2 Player",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaHS7bDUYgmfqDQrE_vkkT8euAi7qOIk_jA&usqp=CAU",
-          "game_link": "https://www.infox.ru/game/en/carrom-2-player/"
+          "id": "2",
+          "game_name": "Temple Run 2",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0ibXjHibij9C6k7GnuyXMrYp8FCl1cQtgA&usqp=CAU",
+          "game_link": "https://templerun.ee/"
         },
         {
-          "id": "0",
-          "game_name": "Penguins Slide",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSYEYqfWMxMXwcIokjWEwwEyHQUx8BdL16vSNpdd0Tag6ofhtIlOIVnEco-eO8xeJGiw&usqp=CAU",
-          "game_link": "https://onlinegamesforkids.club/penguins-slide//"
+          "id": "3",
+          "game_name": "Bottle Shooter",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRG_QTHcsatquVPlUXnleWBeFE9Lzd4iplnA&usqp=CAU",
+          "game_link": "https://gameforge.com/en-US/littlegames/real-bottle-shooter-game/#"
         },
         {
-          "id": "0",
+          "id": "4",
+          "game_name": "Ludo King",
+          "game_image": "https://image.winudf.com/v2/image/Y29tLmdhbWV0aW9uLmx1ZG9raW5nX2ljb25fMF85MjU2ZWI1YQ/icon.png?w=&fakeurl=1",
+          "game_link": "https://poki.com/en/g/ludo-multiplayer"
+        },
+        {
+          "id": "5",
+          "game_name": "Fruit Ninjas",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnopVMV7A86Rev5U9m7BSpW0YmwLpcYqeVrA&usqp=CAU",
+          "game_link": "https://www.yiv.com/Fruit-Ninja-Online"
+        },
+        {
+          "id": "6",
+          "game_name": "The Sea Lion Act",
+          "game_image": "https://static.gamezop.com/SyQZs6nzueW/cover.jpg",
+          "game_link": "https://www.gamezop.com/g/SyQZs6nzueW/The-Sea-Lion-Act"
+        },
+        {
+          "id": "7",
+          "game_name": "Defend The Tank ",
+          "game_image": "https://g.vseigru.net/6/igra-zashchita-tanka/media/graphics/splash/portrait-start.jpg",
+          "game_link": "https://lagged.com/play/1483/"
+        },
+        {
+          "id": "8",
+          "game_name": "Desert Skeet",
+          "game_image": "https://imgs2.dab3games.com/desert-skeet-game.jpg",
+          "game_link": "https://lagged.com/play/1376/"
+        },
+        {
+          "id": "9",
+          "game_name": "Air Fight",
+          "game_image": "https://gameforge.com/de-DE/littlegames/includes/images/games/10155_5eb3f08ecc34b.jpg",
+          "game_link": "https://lagged.com/play/1685/"
+        },
+        {
+          "id": "10",
+          "game_name": "Killer City",
+          "game_image": "https://imgs2.dab3games.com/killer-city-game.png",
+          "game_link": "https://lagged.com/play/2453/"
+        },
+        {
+          "id": "11",
+          "game_name": "King Soldier 2",
+          "game_image": "https://gameforge.com/de-DE/littlegames/includes/images/games/1651_5ea8571376157.jpg",
+          "game_link": "https://lagged.com/play/1040/"
+        },
+        {
+          "id": "12",
+          "game_name": "Salon Robbery",
+          "game_image": "https://static.gamezop.com/SJ8X6zyPcyX/cover.jpg",
+          "game_link": "https://zv1y2i8p.play.gamezop.com/g/SJ8X6zyPcyX"
+        },
+        {
+          "id": "13",
           "game_name": "Join Clash 3D",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
           "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
-          "id": "0",
-          "game_name": "Speed Car",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/speed_car.jpg",
-          "game_link": "https://gamesworld.atmegame.com/games/speed-racer/"
+          "id": "14",
+          "game_name": "Penguins Slide",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSYEYqfWMxMXwcIokjWEwwEyHQUx8BdL16vSNpdd0Tag6ofhtIlOIVnEco-eO8xeJGiw&usqp=CAU",
+          "game_link": "https://onlinegamesforkids.club/penguins-slide//"
         },
         {
-          "id": "2",
-          "game_name": "Bus Parking 3D",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/bus3dparking.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "4",
-          "game_name": "Traffic Rider",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/rider.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=295&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
-          "game_name": "Traffic Tom",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "2",
-          "game_name": "Moto X3M Pool Party",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mPoolPartyTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "5",
-          "game_name": "Subway Surfers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/subway.png",
-          "game_link": "https://poki.com/en/g/subway-surfers#"
-        },
-        {
-          "id": "3",
-          "game_name": "Adventure Drivers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/AdventureDriversTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "4",
-          "game_name": "Moto X3M",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "5",
-          "game_name": "High Hills",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighHillsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "6",
-          "game_name": "Drag Racing Club",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=316&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "7",
-          "game_name": "Race Right",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RaceRightTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/race-right/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2c1acec8-38bc-4c30-86f2-843c0d1f6dca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
-          "game_name": "Adventure Drivers",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/adventuredrivers.png",
-          "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "8",
-          "game_name": "Biker Street",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BikerStreetTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/b/biker-street/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=44eae6d5-c7ec-423f-9992-a29b03b9cb3f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "9",
-          "game_name": "Highway Rider Extreme",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighwayRiderExtremeTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "10",
-          "game_name": "Moto Fury",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoFuryTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/m/moto-fury/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c0efd17-b355-4e57-935e-7661b109a98c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "11",
-          "game_name": "Drift Cup Racing",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DriftCupRacingTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/drift-cup-racing/v620/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e8ca54ee-cfbe-417c-b69e-e4f4858a9957&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=319&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "12",
-          "game_name": "Racing Monster Trucks",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingMonsterTrucksTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "1",
+          "id": "15",
           "game_name": "Stair Race 3D",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/run3d.png",
           "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
         {
-          "id": "13",
-          "game_name": "Racing Cars",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingCarsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/racing-cars/v670/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ba418425-068d-4b12-9a35-21d9db2572f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "14",
-          "game_name": "Truck Trials",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TruckTrialsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/truck-trials/v510/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e56b8aaa-86e9-4d9f-9ea1-3822a3021716&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=321&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "15",
-          "game_name": "Thug Racer",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/thug-racer/v330/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c3a9bc6a-f9cf-4bcd-bd12-b1c5fcb4dc5d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "0",
+          "id": "16",
           "game_name": "Om Nom Run",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
           "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "16",
-          "game_name": "Endless Truck",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/EndlessTruckTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/e/endless-truck/v540/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a5ff2552-bbd9-4aff-9bcc-ec056478318d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "17",
-          "game_name": "Rival Rush",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RivalRushTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/r/rival-rush/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eb55364-154f-40b4-b701-f029678d8e81&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=325&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "18",
-          "game_name": "Street Pursuit",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetPursuit_Teaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/street-pursuit/7-8cd52b/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=aad22a94-8032-4cf9-8232-50f8a12d599c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "19",
-          "game_name": "StreetRace Fury",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetRaceFuryTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/streetrace-fury/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c124e0c0-7312-4f81-bdf0-ab1dbcc47ed4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "20",
-          "game_name": "2Cars",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/2CarsTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/0/2cars/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=1cef50d7-93e3-4b9b-a974-df5fa99744f4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "21",
-          "game_name": "Don't Crash",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DontCrashTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "22",
-          "game_name": "Speed Maniac",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SpeedManiacTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/speed-maniac/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ab87e052-64d3-44b9-b781-6ce8898be5a6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "23",
-          "game_name": "Turbotastic",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TurbotasticTeaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/t/turbotastic/v120/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bc6a49d5-5482-4db5-95c7-af6db7e778cf&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "24",
-          "game_name": "Burnin Rubber",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BurninRubber_Teaser.jpg",
-          "game_link": "https://games.cdn.famobi.com/html5games/b/burnin-rubber/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d55c9a5f-59ef-44c9-9fd9-b8b60cdb6b92&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-        },
-        {
-          "id": "25",
-          "game_name": "Speed Club Nitro",
-          "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SprintClubNitroTeaser.jpeg",
-          "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         }
       ],
-      "Puzzle":  [
+      "Puzzle": [
         {
           "id": "0",
           "game_name": "Supercars Jigsaw",
@@ -1244,7 +1040,7 @@
           "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         }
       ],
-      "Sports":  [
+      "Sports": [
         {
           "id": "0",
           "game_name": "Supercars Jigsaw",
@@ -1494,7 +1290,7 @@
           "game_link": "https://www.girlsgogames.com/game/stylish-crop-top-trends"
         }
       ],
-      "3d Game":  [
+      "3d Game": [
         {
           "id": "0",
           "game_name": "Supercars Jigsaw",
@@ -1712,7 +1508,7 @@
           "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         }
       ],
-      "Strategy":  [
+      "Strategy": [
         {
           "id": "0",
           "game_name": "Supercars Jigsaw",
