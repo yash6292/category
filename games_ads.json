@@ -6,7 +6,7 @@
         "isAdVisibleLimit": "2",
         "game_title": "All Games: All In One Game App",
         "game_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
-        "game_version": "1.0.1",
+        "game_version": "1.0.0",
         "open_ad_id":"/22686822454/com.games.all_games_in_one_game.openapp",
         "inter_ad_id": "/22686822454/com.games.all_games_in_one_game.interstitial",
         "native_ad_id": "/22686822454/com.games.all_games_in_one_game.native",
