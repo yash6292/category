@@ -191,6 +191,13 @@
           "game_image": "https://cdn.now.gg/apps-content/com.rovio.baba/game-tiles/angry-birds-2.jpg",
           "game_link": "https://lagged.com/play/4076/",
           "players": "870K players"
+        },
+        {
+          "id": "27",
+          "game_name": "Master Chess",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
+          "game_link": "https://poki.com/en/g/master-chess#fullscreen",
+          "players": "870K players"
         }
       ],
       "Adventure": [
@@ -332,6 +339,13 @@
           "game_name": "Fruit Doctor",
           "game_image": "https://imgs2.dab3games.com/fruit-doctor-game434.png",
           "game_link": "https://lagged.com/play/3373/",
+          "players": "870K players"
+        },
+        {
+          "id": "27",
+          "game_name": "Master Chess",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
+          "game_link": "https://poki.com/en/g/master-chess#fullscreen",
           "players": "870K players"
         },
         {
@@ -1944,6 +1958,13 @@
           "game_image": "https://imgs2.dab3games.com/snake-battle-game.png",
           "game_link": "https://lagged.com/io/snake-battle",
           "players": "870K players"
+        },
+        {
+          "id": "20",
+          "game_name": "Master Chess",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
+          "game_link": "https://poki.com/en/g/master-chess#fullscreen",
+          "players": "870K players"
         }
       ],
       "Sports": [
@@ -3535,6 +3556,13 @@
           "game_name": "Speed Club Nitro",
           "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SprintClubNitroTeaser.jpeg",
           "game_link": "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=330&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "players": "870K players"
+        },
+        {
+          "id": "157",
+          "game_name": "Master Chess",
+          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
+          "game_link": "https://poki.com/en/g/master-chess#fullscreen",
           "players": "870K players"
         }
       ]
