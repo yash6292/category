@@ -4,9 +4,11 @@
     "hindi": {
       "actor_img": [
         {
+          "actor_name": "Salman Khan",
           "actor_img": "https://images.news18.com/ibnlive/uploads/2022/08/salman-khan-to-return-as-tiger-on-eid-2023.jpg"
         },
         {
+          "actor_name": "Shahrukh Khan",
           "actor_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg"
         }
       ],
