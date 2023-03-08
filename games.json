@@ -81,13 +81,6 @@
           "players": "870K players"
         },
         {
-          "id": "12",
-          "game_name": "Blocks vs Ball",
-          "game_image": "https://imgs2.dab3games.com/blocks-vs-balls11.png",
-          "game_link": "https://lagged.com/play/4531/",
-          "players": "870K players"
-        },
-        {
           "id": "13",
           "game_name": "Fruit Match",
           "game_image": "https://imgs2.dab3games.com/fruit-match-game.jpg",
@@ -713,24 +706,10 @@
           "players": "870K players"
         },
         {
-          "id": "00",
-          "game_name": "Bubble Tower 3D",
-          "game_image": "https://imgs2.dab3games.com/bubble-tower-3d-game.png",
-          "game_link": "https://lagged.com/play/2765/",
-          "players": "870K players"
-        },
-        {
           "id": "2",
           "game_name": "Snack Blast",
           "game_image": "https://imgs2.dab3games.com/slither-io-game.jpg",
           "game_link": "https://lagged.com/play/100/",
-          "players": "870K players"
-        },
-        {
-          "id": "4",
-          "game_name": "3D Bowling",
-          "game_image": "https://imgs2.dab3games.com/3d-bowling-game.jpg",
-          "game_link": "https://lagged.com/play/1542/",
           "players": "870K players"
         },
         {
@@ -2775,13 +2754,6 @@
           "players": "870K players"
         },
         {
-          "id": "47",
-          "game_name": "ClassicSnake.io",
-          "game_image": "https://imgs2.dab3games.com/classic-snakes-io-game.jpg",
-          "game_link": "https://lagged.com/play/1540/",
-          "players": "870K players"
-        },
-        {
           "id": "48",
           "game_name": "Snack Battle",
           "game_image": "https://imgs2.dab3games.com/snake-battle-game.png",
@@ -2947,13 +2919,6 @@
           "game_name": "Color Cannon",
           "game_image": "https://imgs2.dab3games.com/color-cannon-game41.png",
           "game_link": "https://lagged.com/play/4753/",
-          "players": "870K players"
-        },
-        {
-          "id": "72",
-          "game_name": "Bubble Tower 3D",
-          "game_image": "https://imgs2.dab3games.com/bubble-tower-3d-game.png",
-          "game_link": "https://lagged.com/play/2765/",
           "players": "870K players"
         },
         {
@@ -3550,21 +3515,6 @@
           "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
           "game_link": "https://poki.com/en/g/master-chess#fullscreen",
           "players": "870K players"
-        },
-        {
-          "id": "27",
-          "game_name": "Master Chess",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZaMGxGGzB4LI2LxD7hee1yw5mZEaCASm_A&usqp=CAU",
-          "game_link": "https://poki.com/en/g/master-chess#fullscreen",
-          "players": "870K players"
-        },
-        {
-          "id": "28",
-          "game_name": "Buttons and Scissors",
-          "game_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2r54YSZP2Urh0Z93Gmc-9XPDzK9blnD_cw&usqp=CAU",
-          "game_link": "https://www.agame.com/game/button-and-scissors-story",
-          "players": "870K players"
-
         }
       ]
     }
