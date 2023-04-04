@@ -1,3 +1,4 @@
+
 {
   "status": "success",
   "movie_data": {
@@ -51,11 +52,11 @@
         },
         {
           "id": "3",
-          "movie_img": "https://m.media-amazon.com/images/M/MV5BMjU3ZGFlMjYtMjI5Zi00YmFkLWIzYzgtMGFkN2NkMWQwYTUzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
-          "movie_title": "Laawaris",
-          "movie_des": "Laawaris Full Movie Amitabh bachan Laawairs film Laawairs picture",
-          "thumb_nail_image": "https://i.ytimg.com/vi/mjpYO3a98Bc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk2KohxG8YTNL34-UxUePe_3I_ZQ",
-          "video_id": "mjpYO3a98Bc"
+          "movie_img": "https://m.media-amazon.com/images/M/MV5BZGY1ZWUwZDQtMTZjOS00NzQ0LWI0ZTMtNzdmZTI0MWE1OTlmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+          "movie_title": "Roti Kapda Aur Makaan",
+          "movie_des": "Roti Kapda Aur Makaan Full Movie | Manoj Kumar | Amitabh Bachchan | Blockuster Hindi Full Movie",
+          "thumb_nail_image": "https://i.ytimg.com/vi/XRGmEog9azU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhkXMx74xeqH9_9a_Y3pvJ5aTXzw",
+          "video_id": "XRGmEog9azU"
         }
       ],
       "Salman Khan": [
@@ -103,7 +104,7 @@
         },
         {
           "id": "3",
-          "movie_img": "https://i.pinimg.com/736x/15/ca/0c/15ca0c352322cb9101e20e423ec34554.jpg",
+          "movie_img": "https://m.media-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_.jpg",
           "movie_title": "Baazigar",
           "movie_des": "Baazigar Full Movie | Hindi Movies 2017 Full Movie | Shahrukh Khan Movies | Hindi Movies",
           "thumb_nail_image": "https://i.ytimg.com/vi/FacrW7dBTco/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmMjuH4livahjpbvKfeL85vN8s-w",
